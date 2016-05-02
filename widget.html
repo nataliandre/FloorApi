@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+<title>FLOOR-API v1</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/floor-api.css">
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/floor-api.js"></script>
+</head>
+<body>
+<div id="floorapitest">
+</div>
+<div class="preloaderFloorApi">
+	<img src="/img/loading_spinner.gif" />
+</div>
+<div class="floor__api__board  boordFloorApi">
+    <div class="well">
+        <h3 class="__center">Floor Api v1.2</h3>
+        <div class="tilePreloaderApi" style="display:none">
+	       <img src="/img/loading_spinner.gif" />
+        </div>
+        <!--SVG-holst-->
+        <svg id="holst"  width="900">
+         	<g id="poligons"></g>
+ 			<g id="rooms"></g>
+ 			<g id="borders"></g>
+        </svg>
+<div class="js__tile__holder resultTableApiSvg">
+    <div>
+
+    </div>
+</div>
+<div class="menu__body">
+<div class="top__menu__place__holder">
+	<div class="row">
+    <div class="col-xs-6">
+    <!-- typeSelect [js = window.typeSelect] -->
+        <div class="row">
+        <div class="form-group">
+           <label class="col-xs-2 control-label">type</label>
+           <div class="col-xs-10">
+             <ul class="floor__types__list">
+                <li data-room="" data-wall="" data-sizeL="" data-sizeW="" data-type="StraightWall"></li>
+                <li data-room="" data-wall="" data-sizeL="" data-sizeW="" data-type="AnglewiseCube"></li>
+                <li data-room="" data-wall="" data-sizeL="" data-sizeW="" data-type="StraightIndentTop"></li>
+                <li data-room="" data-wall="" data-sizeL="" data-sizeW="" data-type="StraightIndentLeft"></li>
+                <li data-room="" data-wall="" data-sizeL="" data-sizeW="" data-type="AnglewiseRectangle"></li>
+              </ul>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="col-xs-2">
+        <input type="text" class="form-control" data-type="lenght" placeholder="lenght">
+        <input type="text" class="form-control" data-type="width" placeholder="width">
+        <input type="text" class="form-control" data-type="price" placeholder="price">
+    </div>
+	<div class="col-xs-3">
+		 <p class="pApiStyle" style="font-size: 10px;">summary price</p>
+		 <h3 class="h3APiStyle" id="summaryPrice"></h3>
+		 <p class="pApiStyle" style="font-size: 10px;">summary count</p>
+		 <h3 class="h3APiStyle" id="summaryCount"></h3>
+    </div>
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+	<script>
+		$('#floorDraw').floorDraw();
+	</script>
+</body>
+</html>

@@ -1,0 +1,152 @@
+ul{
+  margin-left: 0px;
+  padding-left: 0px;
+}
+li{
+  margin-bottom: 5px;
+}
+
+.floor__api__board{
+   margin: 30px auto 0px;
+   width: 900px;
+   height: 600px;
+}
+
+
+.floor__types__list li{
+      display: inline-block;
+      width: 80px;
+      height: 80px;
+      border: 2px solid grey;
+}
+
+
+.floor__types__list li.active,.floor__wall__start li.active{
+    border: 2px solid #E57373;
+}
+
+.floor__types__list li:first-child{
+  background: url(../img/type1.jpg);
+}
+
+.floor__types__list li:nth-child(2){
+  background: url(../img/type2.jpg);
+}
+.floor__types__list li:nth-child(3){
+  background: url(../img/type3.jpg);
+}
+.floor__types__list li:nth-child(4){
+  background: url(../img/type4.jpg);
+}
+
+.floor__types__list li:nth-child(5){
+  background: url(../img/type5.jpg);
+}
+
+
+
+
+.floor__room__num li, .floor__wall__start li{
+   border: 3px solid #4DB6AC;
+   border-radius: 3px;
+   padding: 20px 25px;
+   display: inline-block;
+   font-weight: bold;
+   margin-left: 5px;
+}
+
+.floor__room__num li.active, .floor__wall__start li.active{
+   border: 3px solid #E57373;
+}
+.button-sized{
+    width: 49.5%;
+}
+
+
+
+
+
+/* sturcture */
+
+.top__menu__place__holder .__inline{
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+}
+
+.__center{
+  text-align: center;
+}
+
+.tile__table{
+  position: absolute;
+  width: 200px;
+  right: 0px;
+  top:0px;
+  padding: 10px;
+  height: 450px;
+  overflow-y: scroll;
+  background: rgba(0,0,0,0.80);
+  color: #fff;
+}
+
+
+.tile__count{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  padding: 5px 20px 15px;
+  background: rgba(0,0,0,0.80);
+  color: #fff;
+}
+
+
+
+.canvas__body{
+  position: relative;
+}
+
+
+
+
+
+/* vizualization */
+
+
+
+.line__style__API{
+	stroke: #000;
+}
+.line__style__API.active{
+	stroke: blue;
+}
+
+.line__style__API:hover{
+	stroke: red;
+}
+
+.preloaderFloorApi{
+	width: 100%;
+	height: 600px;
+	padding: 200px;
+	text-align: center;
+	position: relative;
+}
+
+.tilePreloaderApi{
+	position: absolute;
+	text-align: center;
+	top: 60px;
+	padding: 120px;
+	width: 860px;
+	background: rgba(255,255,255,0.7);
+}
+
+
+
+.h3APiStyle{  margin: 0px !important; min-height: 26px; }
+.pApiStyle{ margin: 0px !important; }
+
+
+
+

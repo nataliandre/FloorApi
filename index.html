@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <title>FLOOR-API v1</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+<div id="widgetPlaceholder"></div>
+<script>
+    $.getJSON("http://release.webstudiomandarin.com/FloorPlan.json", function(data) {
+          setTimeout(function(){
+              $('#widgetPlaceholder').html('<iframe  src="http://release.webstudiomandarin.com/widget.html" id="widgetFrame" width="920" height="800" name="target"  align="center"></iframe>');
+	          console.log('get-data'+data);
+              setTimeout(function(){$('#widgetFrame').get(0).contentWindow.postMessage(data, "http://release.webstudiomandarin.com/")},1000);
+          },1000);
+    });
+</script>
+</body>
+</html>

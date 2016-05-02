@@ -1,0 +1,1624 @@
+{
+  "floors": [
+    {
+      "rooms": [
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "dc4ceb87-ae9d-4c6f-979e-8b0dc6759365",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "ae29b025-34a5-4df3-9389-7035eece5cb9",
+              "inner": {
+                "start": {
+                  "x": 159.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 135.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 164.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 130.5,
+                  "y": 540.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "34ef6d79-19b8-4978-83d6-d72a5260bf5e",
+              "inner": {
+                "start": {
+                  "x": 135.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 135.5,
+                  "y": 446.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 130.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 130.5,
+                  "y": 441.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "0afa5004-a369-4c9d-919b-0ddbf1198460",
+              "inner": {
+                "start": {
+                  "x": 135.5,
+                  "y": 446.5
+                },
+                "end": {
+                  "x": 159.5,
+                  "y": 446.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 130.5,
+                  "y": 441.5
+                },
+                "end": {
+                  "x": 164.5,
+                  "y": 441.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "afdef497-e450-456e-b0fc-1b568a6de6f5",
+              "inner": {
+                "start": {
+                  "x": 159.5,
+                  "y": 446.5
+                },
+                "end": {
+                  "x": 159.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 164.5,
+                  "y": 441.5
+                },
+                "end": {
+                  "x": 164.5,
+                  "y": 540.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "ffcfb438-ef6c-40ba-a7c9-f0b33f84dc69",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "5ffd678e-ea3d-49b7-b8cf-7ee7ef1d702c",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 487.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 482.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 540.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "de33e464-9b44-4bcc-a1c3-c2c36d171258",
+                  "inner": {
+                    "start": {
+                      "x": 276.5,
+                      "y": 497.2063842773438
+                    },
+                    "end": {
+                      "x": 276.5,
+                      "y": 526.0063842773437
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 281.5,
+                      "y": 497.2063842773438
+                    },
+                    "end": {
+                      "x": 281.5,
+                      "y": 526.0063842773437
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "4039cd72-0901-4f08-a302-4f308260c619",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 164.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 159.5,
+                  "y": 540.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "24a9feb4-b8ad-45f3-982b-153a86b88966",
+              "inner": {
+                "start": {
+                  "x": 164.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 164.5,
+                  "y": 487.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 159.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 159.5,
+                  "y": 482.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "53bf7b8f-2cf9-4f2d-89a2-f587e00e4a02",
+              "inner": {
+                "start": {
+                  "x": 164.5,
+                  "y": 487.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 487.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 159.5,
+                  "y": 482.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 482.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "b693105f-3182-49e0-8838-34c4620c6769",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "c77d9b85-d326-4a57-a169-99fe63eebb26",
+              "inner": {
+                "start": {
+                  "x": 616.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 457.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 621.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 452.5,
+                  "y": 540.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "31b2c663-d081-47cd-8cac-1bfaaa766ed9",
+              "inner": {
+                "start": {
+                  "x": 457.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 457.5,
+                  "y": 372.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 452.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 452.5,
+                  "y": 367.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "ff803bb6-266e-4d42-aa26-e34ae0f070ce",
+              "inner": {
+                "start": {
+                  "x": 457.5,
+                  "y": 372.5
+                },
+                "end": {
+                  "x": 616.5,
+                  "y": 372.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 452.5,
+                  "y": 367.5
+                },
+                "end": {
+                  "x": 621.5,
+                  "y": 367.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "bf91181f-890d-4472-bf78-d95599ce4d9e",
+                  "inner": {
+                    "start": {
+                      "x": 570.4020629882813,
+                      "y": 372.5
+                    },
+                    "end": {
+                      "x": 599.2020629882812,
+                      "y": 372.5
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 570.4020629882813,
+                      "y": 367.5
+                    },
+                    "end": {
+                      "x": 599.2020629882812,
+                      "y": 367.5
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "02056edd-01ff-40fd-bf1d-1b21dbd02c48",
+              "inner": {
+                "start": {
+                  "x": 616.5,
+                  "y": 372.5
+                },
+                "end": {
+                  "x": 616.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 621.5,
+                  "y": 367.5
+                },
+                "end": {
+                  "x": 621.5,
+                  "y": 540.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "9ed63157-8d03-482a-893e-625ff0f01f93",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "e1e6d833-fbbd-4bf9-8ed9-8718b35461d0",
+              "inner": {
+                "start": {
+                  "x": 452.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 286,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 457.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 540.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "77127979-5f0d-4c0b-8446-25e6ac4314b0",
+                  "inner": {
+                    "start": {
+                      "x": 398.2624877929687,
+                      "y": 535.5
+                    },
+                    "end": {
+                      "x": 281.5,
+                      "y": 535.5
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 398.2624877929687,
+                      "y": 540.5
+                    },
+                    "end": {
+                      "x": 369.4624877929688,
+                      "y": 540.5
+                    }
+                  },
+                  "type": "entry_door",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "5ffd678e-ea3d-49b7-b8cf-7ee7ef1d702c",
+              "inner": {
+                "start": {
+                  "x": 281.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 400
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 276.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 400
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "de33e464-9b44-4bcc-a1c3-c2c36d171258",
+                  "inner": {
+                    "start": {
+                      "x": 281.5,
+                      "y": 526.0063842773437
+                    },
+                    "end": {
+                      "x": 281.5,
+                      "y": 497.2063842773438
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 276.5,
+                      "y": 526.0063842773437
+                    },
+                    "end": {
+                      "x": 276.5,
+                      "y": 497.2063842773438
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "67831b22-655b-4ac4-9865-6cbf5f22eb38",
+              "inner": {
+                "start": {
+                  "x": 281.5,
+                  "y": 400
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 372.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 276.5,
+                  "y": 400
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 367.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "381535db-3d69-4e9a-95ca-b132b098caec",
+              "inner": {
+                "start": {
+                  "x": 281.5,
+                  "y": 372.5
+                },
+                "end": {
+                  "x": 452.5,
+                  "y": 372.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 276.5,
+                  "y": 367.5
+                },
+                "end": {
+                  "x": 457.5,
+                  "y": 367.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "31b2c663-d081-47cd-8cac-1bfaaa766ed9",
+              "inner": {
+                "start": {
+                  "x": 452.5,
+                  "y": 372.5
+                },
+                "end": {
+                  "x": 452.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 457.5,
+                  "y": 367.5
+                },
+                "end": {
+                  "x": 457.5,
+                  "y": 540.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "b8c84708-6622-4a93-b5ce-0497f464dfde",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "50065005-6cc3-4904-93b2-88d4df6bf230",
+              "inner": {
+                "start": {
+                  "x": 281.5,
+                  "y": 168.5
+                },
+                "end": {
+                  "x": 583.5,
+                  "y": 168.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 276.5,
+                  "y": 163.5
+                },
+                "end": {
+                  "x": 588.5,
+                  "y": 163.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "8cbaa52c-c6be-42ea-b4cd-9f265472aec4",
+              "inner": {
+                "start": {
+                  "x": 583.5,
+                  "y": 168.5
+                },
+                "end": {
+                  "x": 583.5,
+                  "y": 293.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 588.5,
+                  "y": 163.5
+                },
+                "end": {
+                  "x": 588.5,
+                  "y": 288.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "af3c5faa-131c-4487-ace2-05e06c288abe",
+              "inner": {
+                "start": {
+                  "x": 583.5,
+                  "y": 293.5
+                },
+                "end": {
+                  "x": 832.5,
+                  "y": 293.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 588.5,
+                  "y": 288.5
+                },
+                "end": {
+                  "x": 837.5,
+                  "y": 288.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "1ba0551c-2826-4093-b37d-87a26d3576a5",
+                  "inner": {
+                    "start": {
+                      "x": 613.4020629882813,
+                      "y": 293.5
+                    },
+                    "end": {
+                      "x": 642.2020629882812,
+                      "y": 293.5
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 613.4020629882813,
+                      "y": 288.5
+                    },
+                    "end": {
+                      "x": 642.2020629882812,
+                      "y": 288.5
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "51a19ae3-caa9-4eb3-a3a1-d2f8cbe0902b",
+              "inner": {
+                "start": {
+                  "x": 832.5,
+                  "y": 293.5
+                },
+                "end": {
+                  "x": 832.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 837.5,
+                  "y": 288.5
+                },
+                "end": {
+                  "x": 837.5,
+                  "y": 540.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "e8daf93d-5879-48a2-8721-76db8eda4f35",
+              "inner": {
+                "start": {
+                  "x": 832.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 621.5,
+                  "y": 535.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 837.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 616.5,
+                  "y": 540.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "02056edd-01ff-40fd-bf1d-1b21dbd02c48",
+              "inner": {
+                "start": {
+                  "x": 621.5,
+                  "y": 535.5
+                },
+                "end": {
+                  "x": 621.5,
+                  "y": 370
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 616.5,
+                  "y": 540.5
+                },
+                "end": {
+                  "x": 616.5,
+                  "y": 372.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "ff803bb6-266e-4d42-aa26-e34ae0f070ce",
+              "inner": {
+                "start": {
+                  "x": 621.5,
+                  "y": 370
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 370
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 616.5,
+                  "y": 372.5
+                },
+                "end": {
+                  "x": 455,
+                  "y": 370
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "bf91181f-890d-4472-bf78-d95599ce4d9e",
+                  "inner": {
+                    "start": {
+                      "x": 599.3985663603654,
+                      "y": 367.83185335795247
+                    },
+                    "end": {
+                      "x": 570.601812301259,
+                      "y": 368.26423705253364
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 599.4109423326876,
+                      "y": 372.235463503602
+                    },
+                    "end": {
+                      "x": 570.6143923352155,
+                      "y": 371.78969647577736
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "ecab2a61-8964-468d-9d77-55d2b621ccf1",
+              "inner": {
+                "start": {
+                  "x": 281.5,
+                  "y": 367.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 168.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 276.5,
+                  "y": 372.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 245
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "e78ff8d9-a713-46c0-9338-aa0a70436bb7",
+                  "inner": {
+                    "start": {
+                      "x": 281.5,
+                      "y": 349.0063842773437
+                    },
+                    "end": {
+                      "x": 281.5,
+                      "y": 320.2063842773438
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 276.5,
+                      "y": 349.0063842773437
+                    },
+                    "end": {
+                      "x": 276.5,
+                      "y": 320.2063842773438
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "4f1d8a39-5c8e-4e7c-a40a-015e4c5e68fc",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "87b4537e-347b-4b95-8c9e-ee1a245dc303",
+              "inner": {
+                "start": {
+                  "x": 588.5,
+                  "y": 168.5
+                },
+                "end": {
+                  "x": 832.5,
+                  "y": 168.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 583.5,
+                  "y": 163.5
+                },
+                "end": {
+                  "x": 837.5,
+                  "y": 163.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "9ce1ff93-f931-4777-90f4-d68942e844d9",
+              "inner": {
+                "start": {
+                  "x": 832.5,
+                  "y": 168.5
+                },
+                "end": {
+                  "x": 832.5,
+                  "y": 288.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 837.5,
+                  "y": 163.5
+                },
+                "end": {
+                  "x": 837.5,
+                  "y": 293.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "af3c5faa-131c-4487-ace2-05e06c288abe",
+              "inner": {
+                "start": {
+                  "x": 832.5,
+                  "y": 288.5
+                },
+                "end": {
+                  "x": 588.5,
+                  "y": 288.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 837.5,
+                  "y": 293.5
+                },
+                "end": {
+                  "x": 583.5,
+                  "y": 293.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "1ba0551c-2826-4093-b37d-87a26d3576a5",
+                  "inner": {
+                    "start": {
+                      "x": 642.2020629882812,
+                      "y": 288.5
+                    },
+                    "end": {
+                      "x": 613.4020629882813,
+                      "y": 288.5
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 642.2020629882812,
+                      "y": 293.5
+                    },
+                    "end": {
+                      "x": 613.4020629882813,
+                      "y": 293.5
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "8cbaa52c-c6be-42ea-b4cd-9f265472aec4",
+              "inner": {
+                "start": {
+                  "x": 588.5,
+                  "y": 288.5
+                },
+                "end": {
+                  "x": 588.5,
+                  "y": 168.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 583.5,
+                  "y": 293.5
+                },
+                "end": {
+                  "x": 583.5,
+                  "y": 163.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "b361946b-ee1d-4162-9f92-99679fd5870d",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "026c1811-5fd1-4708-bb01-8d220b37b02f",
+              "inner": {
+                "start": {
+                  "x": 135.5,
+                  "y": 168.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 168.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 130.5,
+                  "y": 163.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 163.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "006d74f1-df1b-436b-aaa9-7d0d8b5b2da8",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 168.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 242.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 163.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 247.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "e9768672-968d-4945-a7d0-a8c40c939aa8",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 242.5
+                },
+                "end": {
+                  "x": 135.5,
+                  "y": 242.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 247.5
+                },
+                "end": {
+                  "x": 130.5,
+                  "y": 247.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "3e71961b-cdf1-4e22-81b9-341bc86eecfe",
+                  "inner": {
+                    "start": {
+                      "x": 223.20207824707032,
+                      "y": 242.5
+                    },
+                    "end": {
+                      "x": 194.4020782470703,
+                      "y": 242.5
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 223.20207824707032,
+                      "y": 247.5
+                    },
+                    "end": {
+                      "x": 194.4020782470703,
+                      "y": 247.5
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "f7a43732-7bbd-4c11-9890-d9b093aec18f",
+              "inner": {
+                "start": {
+                  "x": 135.5,
+                  "y": 242.5
+                },
+                "end": {
+                  "x": 135.5,
+                  "y": 168.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 130.5,
+                  "y": 247.5
+                },
+                "end": {
+                  "x": 130.5,
+                  "y": 163.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            }
+          ]
+        },
+        {
+          "id": null,
+          "furniture": [],
+          "roomID": "88aa08f1-c12b-4340-a5e6-3c1f5ed962da",
+          "room_type": "undefined",
+          "room_name": "",
+          "room_number": "",
+          "walls": [
+            {
+              "id": "ecab2a61-8964-468d-9d77-55d2b621ccf1",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 247.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 370
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 242.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 370
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "e78ff8d9-a713-46c0-9338-aa0a70436bb7",
+                  "inner": {
+                    "start": {
+                      "x": 276.5,
+                      "y": 320.2063842773438
+                    },
+                    "end": {
+                      "x": 276.5,
+                      "y": 349.0063842773437
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 281.5,
+                      "y": 320.2063842773438
+                    },
+                    "end": {
+                      "x": 281.5,
+                      "y": 349.0063842773437
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "67831b22-655b-4ac4-9865-6cbf5f22eb38",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 370
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 400
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 370
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 400
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "22bd3812-135e-49c5-a081-f079fa912770",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 400
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 482.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 400
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 487.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "fd60c549-05c1-4fc9-a79f-6cecefbad20d",
+                  "inner": {
+                    "start": {
+                      "x": 276.5,
+                      "y": 398.2063842773438
+                    },
+                    "end": {
+                      "x": 276.5,
+                      "y": 427.0063842773437
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 281.5,
+                      "y": 398.2063842773438
+                    },
+                    "end": {
+                      "x": 281.5,
+                      "y": 427.0063842773437
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            },
+            {
+              "id": "53bf7b8f-2cf9-4f2d-89a2-f587e00e4a02",
+              "inner": {
+                "start": {
+                  "x": 276.5,
+                  "y": 482.5
+                },
+                "end": {
+                  "x": 164.5,
+                  "y": 482.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 281.5,
+                  "y": 487.5
+                },
+                "end": {
+                  "x": 159.5,
+                  "y": 487.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "afdef497-e450-456e-b0fc-1b568a6de6f5",
+              "inner": {
+                "start": {
+                  "x": 164.5,
+                  "y": 482.5
+                },
+                "end": {
+                  "x": 164.5,
+                  "y": 441.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 159.5,
+                  "y": 487.5
+                },
+                "end": {
+                  "x": 159.5,
+                  "y": 446.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "0afa5004-a369-4c9d-919b-0ddbf1198460",
+              "inner": {
+                "start": {
+                  "x": 164.5,
+                  "y": 441.5
+                },
+                "end": {
+                  "x": 135.5,
+                  "y": 441.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 159.5,
+                  "y": 446.5
+                },
+                "end": {
+                  "x": 130.5,
+                  "y": 446.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "ade3438e-797e-4ae6-93b4-36df621dfcb6",
+              "inner": {
+                "start": {
+                  "x": 135.5,
+                  "y": 441.5
+                },
+                "end": {
+                  "x": 135.5,
+                  "y": 247.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 130.5,
+                  "y": 446.5
+                },
+                "end": {
+                  "x": 130.5,
+                  "y": 242.5
+                }
+              },
+              "type": "bearing_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": []
+            },
+            {
+              "id": "e9768672-968d-4945-a7d0-a8c40c939aa8",
+              "inner": {
+                "start": {
+                  "x": 135.5,
+                  "y": 247.5
+                },
+                "end": {
+                  "x": 276.5,
+                  "y": 247.5
+                }
+              },
+              "outer": {
+                "start": {
+                  "x": 130.5,
+                  "y": 242.5
+                },
+                "end": {
+                  "x": 281.5,
+                  "y": 242.5
+                }
+              },
+              "type": "partition_wall",
+              "height": {
+                "start": 101,
+                "end": 101
+              },
+              "openings": [
+                {
+                  "id": "3e71961b-cdf1-4e22-81b9-341bc86eecfe",
+                  "inner": {
+                    "start": {
+                      "x": 194.4020782470703,
+                      "y": 247.5
+                    },
+                    "end": {
+                      "x": 223.20207824707032,
+                      "y": 247.5
+                    }
+                  },
+                  "outer": {
+                    "start": {
+                      "x": 194.4020782470703,
+                      "y": 242.5
+                    },
+                    "end": {
+                      "x": 223.20207824707032,
+                      "y": 242.5
+                    }
+                  },
+                  "type": "floorDoor",
+                  "height": 75.60000000000001,
+                  "heightAboveFloor": 0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "furniture": [],
+      "floorData": {
+        "name": "Страница 1",
+        "index": 1,
+        "id": "bed49aee-d0da-4332-9e20-1de5761602ff",
+        "floor": 0.1,
+        "ground": 2.8,
+        "ceiling": 2.8,
+        "routes": 2.6,
+        "netOutlet": 0.7,
+        "elOutlet": 0.7,
+        "outletPer": 1.2,
+        "elSwitch": 0.7,
+        "other": 0.7,
+        "measureUnits": 1,
+        "slab_height": 0.5,
+        "wallWidth": 0.12,
+        "channelOccupancy": 0.5,
+        "project": "aa9223a7-278b-4694-bd8f-a30839e96e47",
+        "active": true
+      },
+      "chimneys": [],
+      "scaling": 36
+    }
+  ]
+}
